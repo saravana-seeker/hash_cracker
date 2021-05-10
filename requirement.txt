@@ -1,0 +1,5 @@
+termcolor
+hashlib
+optparse-pretty
+urllib3
+os-sys
